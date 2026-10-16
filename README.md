@@ -11,8 +11,8 @@ Engineered custom brake rotors and aerodynamic cooling ducts for Ontario Tech Ra
 ## Images
 <img width="650"  alt="Screenshot 2026-09-22 160649" src="https://github.com/user-attachments/assets/74c56a17-762d-436e-ac0d-2219a8f1b61e" />
 
-<img width="911" height="797" alt="Screenshot 2026-09-22 143806" src="https://github.com/user-attachments/assets/6da771a3-d4dc-4934-aa9e-264854e9fccd" />
-<img width="930" height="775" alt="Screenshot 2026-09-22 125235" src="https://github.com/user-attachments/assets/b4f8a152-8721-448e-a92a-98372c532185" />
-<img width="712" height="627" alt="Screenshot 2026-09-22 134627" src="https://github.com/user-attachments/assets/38e34313-9279-43e1-9923-faec8a7e5129" />
-<img width="765" height="522" alt="Screenshot 2026-09-22 143729" src="https://github.com/user-attachments/assets/0eb5e9a7-e1e1-4552-a4d2-e78eacc045f6" />
+<img width="911"  alt="Screenshot 2026-09-22 143806" src="https://github.com/user-attachments/assets/6da771a3-d4dc-4934-aa9e-264854e9fccd" />
+<img width="930"  alt="Screenshot 2026-09-22 125235" src="https://github.com/user-attachments/assets/b4f8a152-8721-448e-a92a-98372c532185" />
+<img width="712"  alt="Screenshot 2026-09-22 134627" src="https://github.com/user-attachments/assets/38e34313-9279-43e1-9923-faec8a7e5129" />
+<img width="765"  alt="Screenshot 2026-09-22 143729" src="https://github.com/user-attachments/assets/0eb5e9a7-e1e1-4552-a4d2-e78eacc045f6" />
 
