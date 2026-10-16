@@ -9,7 +9,7 @@ Engineered custom brake rotors and aerodynamic cooling ducts for Ontario Tech Ra
 - Aero Cooling Ducts: Designed custom ducting and end plates using SolidWorks and ANSYS CFD to route cooling air directly to the brakes, simultaneously redirecting inboard wheel wake outboard to improve rear-wing aerodynamic efficiency.
 
 ## Images
-<img width="650"  alt="Screenshot 2026-09-22 160649" src="https://github.com/user-attachments/assets/74c56a17-762d-436e-ac0d-2219a8f1b61e" />
+<img width="500"  alt="Screenshot 2026-09-22 160649" src="https://github.com/user-attachments/assets/74c56a17-762d-436e-ac0d-2219a8f1b61e" />
 
 <img width="911"  alt="Screenshot 2026-09-22 143806" src="https://github.com/user-attachments/assets/6da771a3-d4dc-4934-aa9e-264854e9fccd" />
 <img width="930"  alt="Screenshot 2026-09-22 125235" src="https://github.com/user-attachments/assets/b4f8a152-8721-448e-a92a-98372c532185" />
